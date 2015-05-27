@@ -29,6 +29,7 @@ Name | Repository
 Name | Description
 --- | --- 
 [Dagger](https://github.com/square/Dagger) | A fast dependency injector for Android and Java. 
+[Dagger 2](https://github.com/google/dagger) | Dagger without reflection and generated code.
 [ButterKnife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android.
 [RoboGuice](https://github.com/roboguice/roboguice) | Google Guice on Android, version 3.0
 [AndroidAnnotations](https://github.com/excilys/androidannotations) | Fast Android Development. Easy maintainance.
